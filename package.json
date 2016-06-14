@@ -1,0 +1,28 @@
+{
+  "name": "mtime_2_douban",
+  "version": "1.0.0",
+  "description": "move mtime move to douban move",
+  "main": "rate_douban.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "htmlparser": "^1.7.7",
+    "traverse": "^0.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckscx/mtime_2_douban.git"
+  },
+  "keywords": [
+    "mtime"
+  ],
+  "author": "grissom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckscx/mtime_2_douban/issues"
+  },
+  "homepage": "https://github.com/luckscx/mtime_2_douban#readme"
+}
