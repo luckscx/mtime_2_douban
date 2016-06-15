@@ -16,12 +16,12 @@ var rate = function(iMovieID,iRate,cb) {
             interest : 'collect',
             foldcollect : 'F',
             tags : 'mtime',
-            ck : 'Ohiq',
+            ck : 'xxxx',
             comment : ''
         },
         headers : {
             'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36',
-            'Cookie' : 'bid=z-3X8mvoSjY; ll="118282"; dbcl2="49579643:DS3NChIUKfc"; ck=Ohiq;'
+            'Cookie' : 'bid=xxxxxxxxxx; ll="xxxxx"; dbcl2="xxxxxxxxx"; ck=xxxx;'
         }
     };
     request.post(options,function(err,res,body) {

@@ -11,7 +11,7 @@ var fs = require('fs');
 
 phantom.addCookie({
 	'name':     '_mi_',   
-	'value':    '610631052112709850496101212261005.1606131622012648AFAA8AF94BE4651A311E',  
+	'value':    'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',  
 	'domain':   'mtime.com',           
 });
 
